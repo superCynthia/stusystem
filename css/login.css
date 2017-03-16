@@ -1,0 +1,33 @@
+#mid{
+	position:absolute; 
+	top:50%; 
+	left:50%; 
+	margin:-200px 0 0 -175px;
+	height:400px; 
+	border:1px #FFFFFF solid;
+	background-color:#FFF;
+	border-radius:20px;
+	}
+#mid_user{
+	margin:10px;
+	width:350px;
+}
+#mid_pwd{
+	margin:10px;
+}
+#mid_shenfen{
+	margin:10px;
+}
+#btn_login{
+	margin-left:150px;
+	margin-bottom:10px;
+}
+#btn_forgetPwd{
+	border:1px #FFFFFF solid;
+	margin-lest:200px;
+	background-color:#FFF;
+	height:20px;
+	text-height:15px;
+	font-size:12px;
+}
+
